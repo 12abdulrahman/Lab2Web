@@ -24,3 +24,13 @@ Kelas : TI.20.B.1
 4. Membuat CSS Eksternal
 
 ![gambar4](No4.PNG)
+
+5. Membuat CSS Selektor
+
+![gambar5](No5.PNG)
+
+# Jawaban dari pertanyaan tugas Lab2Web
+
+1. Saya telah melakukan perubahan warna pada file yang telah dibuat. Berikut adalah hasilnya
+
+![gambar6](final.PNG)
