@@ -20,3 +20,7 @@ Kelas : TI.20.B.1
 3. Menambahkan Inline CSS
 
 ![gambar3](No.3.PNG)
+
+4. Membuat CSS Eksternal
+
+![gambar4](No4.PNG)
