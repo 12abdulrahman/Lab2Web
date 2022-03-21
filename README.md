@@ -16,3 +16,7 @@ Kelas : TI.20.B.1
 2. Membuat Mendeklarasikan CSS Internal
 
 ![gambar2](No2.PNG)
+
+3. Menambahkan Inline CSS
+
+![gambar3](No.3.PNG)
